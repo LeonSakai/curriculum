@@ -19,42 +19,41 @@ body {
 .contents {
     height: 250px;
 }
-.left-center {
-    float: left;
-    height: 250px;
-}
 .left {
-    float: left;
     width: 150px;
-    height: 100%;
+    height: 250px;
+    float: left;
     background-color: #80bfa8;
 }
-.up {
-    float: left;
-    width: 150px;
+.right {
+    width: 250px;
+    float: right;
+}
+.r2 {
     height: 50px;
+    width: 150px;
+    float: left;
     background-color: #dbd400;
 }
-.center {
-    float: left;
-    width: 150px;
-    height: 100px;
-    background-color: #0093b7;
-}
-.right {
-    float: right;
-    width: 100px;
+.r1 {
     height: 150px;
+    width: 100px;
+    float: right;
     background-color: #ff9e6b;
 }
-.low {
-    float: right;
-    width: 250px;
+.r3 {
     height: 100px;
+    width: 150px;
+    float: left;
+    background-color: #0093b7;
+}
+.r4 {
+    height: 100px;
+    width: 250px;
+    float: right;
     background-color: #8c2727;
 }
 .footer {
-    height: 100%;
     height: 100px;
     background-color: #d98d30;
 }
